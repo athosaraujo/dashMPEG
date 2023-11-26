@@ -1,0 +1,893 @@
+﻿id;catalogNumber;recordedBy;eventdate;higherGeography;eventRemarks;preparations
+0;MPEG.ANL 001101;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+1;MPEG.ANL 001596;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+2;MPEG.ANL 001635;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+3;MPEG.ANL 001031;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+4;MPEG.ANL 001036;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 17
+5;MPEG.ANL 000595;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+6;MPEG.ANL 001568;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Rosário;;Etanol - 1
+7;MPEG.ANL 000622;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+8;MPEG.ANL 001090;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+9;MPEG.ANL 001083;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+10;MPEG.ANL 001137;Muniz, Mairink;05/09/2016;Pará;Amazôna Azul;EtOH - 1
+11;MPEG.ANL 001045;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+12;MPEG.ANL 001001;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 37
+13;MPEG.ANL 001595;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+14;MPEG.ANL 001056;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+15;MPEG.ANL 000619;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+16;MPEG.ANL 001629;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+17;MPEG.ANL 001593;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+18;MPEG.ANL 001569;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Rosário;;Etanol - 1
+19;MPEG.ANL 001009;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+20;MPEG.ANL 001609;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+21;MPEG.ANL 000724;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+22;MPEG.ANL 001034;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+23;MPEG.ANL 000603;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+24;MPEG.ANL 000628;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+25;MPEG.ANL 001104;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+26;MPEG.ANL 001567;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+27;MPEG.ANL 001005;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+28;MPEG.ANL 001097;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+29;MPEG.ANL 001113;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+30;MPEG.ANL 000713;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 11
+31;MPEG.ANL 000624;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+32;MPEG.ANL 001114;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 10
+33;MPEG.ANL 001140;Romão, João;06/12/2015;Pará;Amazôna Azul;EtOH - 1
+34;MPEG.ANL 001078;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+35;MPEG.ANL 001644;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+36;MPEG.ANL 001061;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+37;MPEG.ANL 001093;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+38;MPEG.ANL 001561;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";04/06/2017;Maranhão, São Luís;;Etanol - 1
+39;MPEG.ANL 001562;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/07/2011;Maranhão, Tomé-Açu;;Etanol - 1
+40;MPEG.ANL 001059;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 22
+41;MPEG.ANL 001597;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+42;MPEG.ANL 000650;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+43;MPEG.ANL 000623;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+44;MPEG.ANL 001110;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+45;MPEG.ANL 000648;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+46;MPEG.ANL 001012;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+47;MPEG.ANL 001050;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+48;MPEG.ANL 001054;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+49;MPEG.ANL 001109;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 7
+50;MPEG.ANL 001611;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+51;MPEG.ANL 001652;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 12
+52;MPEG.ANL 001649;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 4
+53;MPEG.ANL 001605;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+54;MPEG.ANL 001021;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+55;MPEG.ANL 001084;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+56;MPEG.ANL 000717;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 5
+57;MPEG.ANL 000599;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+58;MPEG.ANL 001107;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+59;MPEG.ANL 001647;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 5
+60;MPEG.ANL 001051;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+61;MPEG.ANL 001088;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+62;MPEG.ANL 001570;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Rosário;;Etanol - 1
+63;MPEG.ANL 001065;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+64;MPEG.ANL 000719;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+65;MPEG.ANL 000594;"Braga, Cesar; Ferreira, Viviane";01/04/2009;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 14
+66;MPEG.ANL 000714;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+67;MPEG.ANL 001053;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+68;MPEG.ANL 000702;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+69;MPEG.ANL 001135;Muniz, Mairink;25/06/2016;Pará;Amazôna Azul;EtOH - 1
+70;MPEG.ANL 001085;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 5
+71;MPEG.ANL 000651;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+72;MPEG.ANL 001566;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+73;MPEG.ANL 001571;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Rosário;;Etanol - 1
+74;MPEG.ANL 000725;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+75;MPEG.ANL 001661;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+76;MPEG.ANL 001615;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+77;MPEG.ANL 001637;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+78;MPEG.ANL 001651;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+79;MPEG.ANL 001624;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 6
+80;MPEG.ANL 001092;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+81;MPEG.ANL 001004;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 5
+82;MPEG.ANL 001008;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+83;MPEG.ANL 001116;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+84;MPEG.ANL 001074;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+85;MPEG.ANL 001094;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+86;MPEG.ANL 000723;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+87;MPEG.ANL 001622;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+88;MPEG.ANL 001653;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 7
+89;MPEG.ANL 000607;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+90;MPEG.ANL 001630;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 3
+91;MPEG.ANL 001617;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+92;MPEG.ANL 001133;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+93;MPEG.ANL 000616;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+94;MPEG.ANL 001655;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+95;MPEG.ANL 001115;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+96;MPEG.ANL 000618;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 6
+97;MPEG.ANL 000706;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+98;MPEG.ANL 001030;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+99;MPEG.ANL 001049;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+100;MPEG.ANL 001022;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+101;MPEG.ANL 001043;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+102;MPEG.ANL 001035;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 11
+103;MPEG.ANL 001112;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+104;MPEG.ANL 001654;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 3
+105;MPEG.ANL 000600;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 4
+106;MPEG.ANL 000589;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 27
+107;MPEG.ANL 001631;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+108;MPEG.ANL 001623;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+109;MPEG.ANL 000625;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+110;MPEG.ANL 001033;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+111;MPEG.ANL 000588;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 100
+112;MPEG.ANL 000617;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+113;MPEG.ANL 001557;Cardoso, E.;01/02/2018;Ceará, Jijoca de Jericoacoara;Recifes Arenosos;
+114;MPEG.ANL 001563;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/07/2011;Maranhão, Tomé-Açu;;Etanol - 1
+115;MPEG.ANL 001640;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+116;MPEG.ANL 001556;"Santos, C.R.M; Amado, L.L.";10/01/2012;Paraná, Pontal do Paraná;;EtOH
+117;MPEG.ANL 000608;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+118;MPEG.ANL 001589;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+119;MPEG.ANL 001015;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 14
+120;MPEG.ANL 001042;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 24
+121;MPEG.ANL 001102;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+122;MPEG.ANL 001010;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+123;MPEG.ANL 001103;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+124;MPEG.ANL 001032;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+125;MPEG.ANL 000630;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+126;MPEG.ANL 001066;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+127;MPEG.ANL 000597;"Braga, Cesar; Ferreira, Viviane";01/04/2009;Pará, Bragança;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 20
+128;MPEG.ANL 001136;Muniz, Mairink;05/09/2016;Pará;Amazôna Azul;EtOH - 1
+129;MPEG.ANL 001120;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+130;MPEG.ANL 001645;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+131;MPEG.ANL 001095;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+132;MPEG.ANL 001106;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+133;MPEG.ANL 001087;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+134;MPEG.ANL 001062;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+135;MPEG.ANL 000601;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 4
+136;MPEG.ANL 000649;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+137;MPEG.ANL 001572;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Rosário;;Etanol - 1
+138;MPEG.ANL 000609;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 82
+139;MPEG.ANL 001068;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+140;MPEG.ANL 001069;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+141;MPEG.ANL 001132;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 8
+142;MPEG.ANL 001018;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 58
+143;MPEG.ANL 001003;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+144;MPEG.ANL 001638;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+145;MPEG.ANL 001044;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;;;Etanol - 3
+146;MPEG.ANL 001585;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+147;MPEG.ANL 001098;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 7
+148;MPEG.ANL 001029;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+149;MPEG.ANL 001118;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+150;MPEG.ANL 001613;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+151;MPEG.ANL 000716;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+152;MPEG.ANL 001096;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+153;MPEG.ANL 001606;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+154;MPEG.ANL 001607;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+155;MPEG.ANL 000591;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+156;MPEG.ANL 001634;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 6
+157;MPEG.ANL 000718;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+158;MPEG.ANL 000596;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 12
+159;MPEG.ANL 001016;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 5
+160;MPEG.ANL 001592;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+161;MPEG.ANL 001628;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+162;MPEG.ANL 001052;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 29
+163;MPEG.ANL 001075;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+164;MPEG.ANL 001006;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 15
+165;MPEG.ANL 001581;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+166;MPEG.ANL 000613;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+167;MPEG.ANL 001041;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+168;MPEG.ANL 000621;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 11
+169;MPEG.ANL 001656;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+170;MPEG.ANL 000721;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+171;MPEG.ANL 001071;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+172;MPEG.ANL 001048;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+173;MPEG.ANL 001139;Muniz, Mairink;22/02/2017;Pará;Amazôna Azul;EtOH - 1
+174;MPEG.ANL 001610;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+175;MPEG.ANL 000722;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+176;MPEG.ANL 001039;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+177;MPEG.ANL 001077;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 10
+178;MPEG.ANL 000582;Brogim, Rosemary;23/06/2018;Pará, Itaituba;Os individuos foram coletados com pegador Petitponar.;EtOH - 1
+179;MPEG.ANL 001642;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+180;MPEG.ANL 001658;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+181;MPEG.ANL 001026;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+182;MPEG.ANL 001625;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+183;MPEG.ANL 001608;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+184;MPEG.ANL 000611;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+185;MPEG.ANL 001055;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+186;MPEG.ANL 000707;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+187;MPEG.ANL 000583;Brogim, Rosemary;;Pará, Itaituba;Os individuos foram coletados com pegador Petitponar.;EtOH - 1
+188;MPEG.ANL 000664;"Almeida, Mayk ; Rosa Filho, José";01/04/2003;Pará, Bragança;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+189;MPEG.ANL 001064;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+190;MPEG.ANL 001037;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+191;MPEG.ANL 001070;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+192;MPEG.ANL 001089;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+193;MPEG.ANL 001117;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+194;MPEG.ANL 001598;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+195;MPEG.ANL 001091;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+196;MPEG.ANL 001081;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 35
+197;MPEG.ANL 001156;"Santos, C.; Amado, L. L.";10/01/2012;Paraná, Pontal do Paraná;;EtOH - 1
+198;MPEG.ANL 000610;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 13
+199;MPEG.ANL 000703;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+200;MPEG.ANL 001660;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+201;MPEG.ANL 001614;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+202;MPEG.ANL 001130;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+203;MPEG.ANL 001627;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+204;MPEG.ANL 000704;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+205;MPEG.ANL 001582;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+206;MPEG.ANL 000612;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 4
+207;MPEG.ANL 001038;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+208;MPEG.ANL 001648;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+209;MPEG.ANL 001577;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+210;MPEG.ANL 000720;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+211;MPEG.ANL 001007;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+212;MPEG.ANL 000661;"Almeida, Mayk ; Rosa Filho, José";01/04/2003;Pará, Bragança;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+213;MPEG.ANL 000705;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+214;MPEG.ANL 001126;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+215;MPEG.ANL 001073;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+216;MPEG.ANL 001080;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+217;MPEG.ANL 001612;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+218;MPEG.ANL 001027;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 76
+219;MPEG.ANL 001619;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+220;MPEG.ANL 001650;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 5
+221;MPEG.ANL 001603;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+222;MPEG.ANL 001017;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+223;MPEG.ANL 000586;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 29
+224;MPEG.ANL 000710;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+225;MPEG.ANL 001618;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+226;MPEG.ANL 001602;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+227;MPEG.ANL 001023;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 9
+228;MPEG.ANL 000593;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 4
+229;MPEG.ANL 001621;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+230;MPEG.ANL 001646;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+231;MPEG.ANL 001586;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+232;MPEG.ANL 001578;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+233;MPEG.ANL 000646;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+234;MPEG.ANL 000742;"Braga, Cesar; Ferreira, Viviane";01/11/2007;Pará, Curuçá;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+235;MPEG.ANL 001587;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+236;MPEG.ANL 001620;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+237;MPEG.ANL 000606;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+238;MPEG.ANL 001063;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+239;MPEG.ANL 000662;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+240;MPEG.ANL 001127;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 7
+241;MPEG.ANL 001072;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+242;MPEG.ANL 001025;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+243;MPEG.ANL 000647;"Silva, Roseanne; Rosa Filho, José";01/01/2005;Pará, Curuçá;"Material doado Laboratório de Oceanografia Biológica/UFPA; Projeto RECOS – Instituto do Milênio";Líquido - 1
+244;MPEG.ANL 001028;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 10
+245;MPEG.ANL 001111;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 11
+246;MPEG.ANL 000605;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+247;MPEG.ANL 001100;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+248;MPEG.ANL 001559;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";04/06/2017;Maranhão, São Luís;;Etanol - 1
+249;MPEG.ANL 001123;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+250;MPEG.ANL 000598;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+251;MPEG.ANL 001076;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+252;MPEG.ANL 001659;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 3
+253;MPEG.ANL 001633;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+254;MPEG.ANL 001099;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+255;MPEG.ANL 001599;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+256;MPEG.ANL 000604;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 10
+257;MPEG.ANL 000587;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+258;MPEG.ANL 001014;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+259;MPEG.ANL 001128;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+260;MPEG.ANL 001125;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+261;MPEG.ANL 000727;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+262;MPEG.ANL 000709;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Salinópolis;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+263;MPEG.ANL 001558;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";04/06/2017;Maranhão, São Luís;;Etanol - 1
+264;MPEG.ANL 000711;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+265;MPEG.ANL 001641;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+266;MPEG.ANL 001019;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 10
+267;MPEG.ANL 000712;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+268;MPEG.ANL 001121;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+269;MPEG.ANL 001560;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";04/06/2017;Maranhão, São Luís;;Etanol - 1
+270;MPEG.ANL 001580;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+271;MPEG.ANL 000584;"Braga, Cesar; Ferreira, Viviane";01/04/2009;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 17
+272;MPEG.ANL 001600;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+273;MPEG.ANL 001105;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 5
+274;MPEG.ANL 001011;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 12
+275;MPEG.ANL 000708;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+276;MPEG.ANL 001058;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 13
+277;MPEG.ANL 001636;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+278;MPEG.ANL 000627;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+279;MPEG.ANL 001047;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+280;MPEG.ANL 001108;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 59
+281;MPEG.ANL 001020;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+282;MPEG.ANL 000715;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+283;MPEG.ANL 001002;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 11
+284;MPEG.ANL 001119;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+285;MPEG.ANL 001632;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 2
+286;MPEG.ANL 000629;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+287;MPEG.ANL 001564;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/07/2011;Maranhão, Tomé-Açu;;Etanol - 1
+288;MPEG.ANL 000626;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 5
+289;MPEG.ANL 001057;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+290;MPEG.ANL 001060;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 7
+291;MPEG.ANL 000620;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+292;MPEG.ANL 001013;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+293;MPEG.ANL 001573;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, São José de Ribamar;;Etanol - 1
+294;MPEG.ANL 000726;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 4
+295;MPEG.ANL 000615;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Marapanim;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 1
+296;MPEG.ANL 001591;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+297;MPEG.ANL 001643;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+298;MPEG.ANL 000592;"Braga, Cesar; Ferreira, Viviane";01/04/2009;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+299;MPEG.ANL 001067;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+300;MPEG.ANL 001122;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 24
+301;MPEG.ANL 001138;Muniz, Mairink;04/09/2016;Pará;Amazôna Azul;EtOH - 1
+302;MPEG.ANL 001046;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+303;MPEG.ANL 001657;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 13
+304;MPEG.ANL 001604;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+305;MPEG.ANL 001124;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 5
+306;MPEG.ANL 001082;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+307;MPEG.ANL 001024;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 20
+308;MPEG.ANL 000614;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Maracanã;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 3
+309;MPEG.ANL 001079;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 2
+310;MPEG.ANL 001616;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+311;MPEG.ANL 001141;Muniz, Mairink;23/02/2017;Pará;Amazôna Azul;EtOH - 1
+312;MPEG.ANL 001040;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 4
+313;MPEG.ANL 001588;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+314;MPEG.ANL 000602;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 2
+315;MPEG.ANL 001601;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+316;MPEG.ANL 001565;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+317;MPEG.ANL 001594;"Sousa, Sandriel; Hernández, Luis; Rousseau, Guillaume";15/08/2018;Maranhão, São Luís;;Etanol - 1
+318;MPEG.ANL 000590;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 38
+319;MPEG.ANL 000585;"Braga, Cesar; Ferreira, Viviane";01/11/2008;Pará, Bragança;Material doado Laboratório de Oceanografia Biológica/UFPA;Líquido - 5
+320;MPEG.ANL 001579;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Alcântara;;Etanol - 1
+321;MPEG.ANL 001639;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 1
+322;MPEG.ANL 001129;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+323;MPEG.ANL 001626;"Sousa, Anny; Sousa, Sandriel; Hernández, Luis";12/02/2019;Maranhão, Caxias;;Etanol - 3
+324;MPEG.ANL 001576;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, São José de Ribamar;;Etanol - 1
+325;MPEG.ANL 001086;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+326;MPEG.ANL 001575;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, São José de Ribamar;;Etanol - 1
+327;MPEG.ANL 001583;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+328;MPEG.ANL 001134;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 3
+329;MPEG.ANL 001131;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 6
+330;MPEG.ANL 001590;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Bom Jesus;;Etanol - 1
+331;MPEG.ANL 001584;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, Itinga do Maranhão;;Etanol - 1
+332;MPEG.ANL 001574;"Hernández, Luis; Rousseau, Guillaume; Sousa, Sandriel";15/04/2017;Maranhão, São José de Ribamar;;Etanol - 1
+333;MPEG.ANL 000575;Cherniski, D.;08/01/2018;Pará, Vera Cruz;;EtOH - 1
+334;MPEG.ANL 000573;Cherniski, D.;17/01/2018;Pará, Baião;;EtOH - 1
+335;MPEG.ANL 000555;Cherniski, D.;09/01/2018;Pará, Itupiranga;;EtOH - 4
+336;MPEG.ANL 000577;Cherniski, D.;09/01/2018;Pará, Itupiranga;;EtOH - 1
+337;MPEG.ANL 000570;Cunha;01/01/1956;Pará, São João de Pirabas;;EtOH - 2
+338;MPEG.ANL 000559;Cherniski, D.;16/01/2018;Pará, Baião;;EtOH - 1
+339;MPEG.ANL 000549;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 17
+340;MPEG.ANL 000563;Cherniski, D.;18/01/2018;Pará, Baião;;EtOH - 1
+341;MPEG.ANL 000562;Cherniski, D.;17/01/2018;Pará, Baião;;EtOH - 1
+342;MPEG.ANL 000561;Cherniski, D.;19/01/2018;Pará, Baião;;EtOH - 1
+343;MPEG.ANL 000581;Bueno, Paulo;;Pará, Conceição do Araguaia;;EtOH - 2
+344;MPEG.ANL 000535;Cherniski, D.;28/08/2017;Pará, Baião;;EtOH - 2
+345;MPEG.ANL 000534;Cherniski, D.;25/08/2017;Pará, Baião;;EtOH - 1
+346;MPEG.ANL 000558;Cherniski, D.;16/01/2018;Pará, Baião;;EtOH - 1
+347;MPEG.ANL 000552;Cherniski, D.;09/01/2018;Pará, Itupiranga;;EtOH - 1
+348;MPEG.ANL 000569;Cherniski, D.;19/01/2018;Pará, Baião;;EtOH - 2
+349;MPEG.ANL 000538;Cherniski, D.;30/08/2017;Pará, Baião;;EtOH - 4
+350;MPEG.ANL 000539;Kinispel, S.;19/12/2000;Pará, Vitória do Xingú;Terra firme, margem direita do rio Xingú, pitfall - pequenos mamíferos;EtOH - 1
+351;MPEG.ANL 000571;Cherniski, D.;14/01/2018;Pará, Tucuruí;;EtOH - 2
+352;MPEG.ANL 000572;Cherniski, D.;07/01/2018;Pará, Vila Nova do Pará;;EtOH - 4
+353;MPEG.ANL 000578;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 2
+354;MPEG.ANL 000568;Cherniski, D.;17/01/2018;Pará, Baião;;EtOH - 1
+355;MPEG.ANL 000556;Cherniski, D.;15/01/2018;Pará, Tucuruí;;EtOH - 1
+356;MPEG.ANL 000514;Cherniski, D.;04/09/2017;Pará, Itupiranga;;EtOH - 50
+357;MPEG.ANL 000574;Cherniski, D.;14/01/2018;Pará, Tucuruí;;EtOH - 2
+358;MPEG.ANL 000557;Cherniski, D.;15/01/2018;Pará, Breu Branco;;EtOH - 1
+359;MPEG.ANL 000536;Cherniski, D.;28/08/2017;Pará, Baião;;EtOH - 10
+360;MPEG.ANL 000521;Cherniski, D.;01/09/2017;Pará, Jacundá;;EtOH - 23
+361;MPEG.ANL 000531;Cherniski, D.;24/08/2017;Pará, Baião;;EtOH - 6
+362;MPEG.ANL 000529;Cherniski, D.;24/08/2017;Pará, Baião;;EtOH - 2
+363;MPEG.ANL 000566;Cherniski, D.;18/01/2018;Pará, Baião;;EtOH - 1
+364;MPEG.ANL 000493;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 3
+365;MPEG.ANL 000548;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 39
+366;MPEG.ANL 000541;Cherniski, D.;29/08/2017;Pará, Baião;;EtOH - 30
+367;MPEG.ANL 000540;Cherniski, D.;30/08/2017;Pará, Baião;;EtOH - 8
+368;MPEG.ANL 000515;Cherniski, D.;04/09/2017;Pará, Vila Nova do Pará;;EtOH - 10
+369;MPEG.ANL 000522;Cherniski, D.;21/08/2017;Pará, Tucuruí;;EtOH - 10
+370;MPEG.ANL 000516;Cherniski, D.;06/09/2017;Pará, Cajazeiras;;EtOH - 9
+371;MPEG.ANL 000546;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 15
+372;MPEG.ANL 000523;Cherniski, D.;21/08/2017;Pará, Tucuruí;;EtOH - 8
+373;MPEG.ANL 000471;"Beckman, Ruana; Pena, José; Souza, Raíssa";10/09/2017;Pará, Belém;;Etanol - 6
+374;MPEG.ANL 000510;Cherniski, D.;03/09/2017;Pará, Marabá;;EtOH - 80
+375;MPEG.ANL 000580;Bueno, Paulo;08/07/2017;Pará;;EtOH - 2
+376;MPEG.ANL 000543;Cherniski, D.;29/08/2017;Pará, Baião;;EtOH - 82
+377;MPEG.ANL 000542;Cherniski, D.;29/08/2017;Pará, Baião;;EtOH - 9
+378;MPEG.ANL 000490;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/12/2017;Pará, Belém;;Etanol - 2
+379;MPEG.ANL 000513;Cherniski, D.;04/09/2017;Pará, Itupiranga;;EtOH - 48
+380;MPEG.ANL 000528;Cherniski, D.;23/08/2017;Pará, Breu Branco;;EtOH - 1
+381;MPEG.ANL 000551;Cherniski, D.;09/01/2018;Pará, Marabá;;EtOH - 2
+382;MPEG.ANL 000553;Cherniski, D.;09/01/2018;Pará, Itupiranga;;EtOH - 1
+383;MPEG.ANL 000533;Cherniski, D.;25/08/2017;Pará, Baião;;EtOH - 4
+384;MPEG.ANL 000487;"Beckman, Ruana; Pena, José; Souza, Raíssa";26/01/2018;Pará, Belém;;Etanol - 4
+385;MPEG.ANL 000579;Cherniski, D.;03/09/2017;Pará, Marabá;;EtOH - 23
+386;MPEG.ANL 000501;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+387;MPEG.ANL 000527;Cherniski, D.;23/08/2017;Pará, Breu Branco;;EtOH - 2
+388;MPEG.ANL 000511;Cherniski, D.;03/09/2017;Pará, Itupiranga;;EtOH - 4
+389;MPEG.ANL 000524;Cherniski, D.;21/08/2017;Pará, Tucuruí;;EtOH - 16
+390;MPEG.ANL 000466;"Beckman, Ruana; Pena, José; Souza, Raíssa";14/09/2017;Pará, Belém;;Etanol - 5
+391;MPEG.ANL 000498;"Beckman, Ruana; Pena, José; Souza, Raíssa";03/10/2017;Pará, Belém;;Etanol - 4
+392;MPEG.ANL 000478;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/12/2017;Pará, Belém;;Etanol - 1
+393;MPEG.ANL 000486;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 6
+394;MPEG.ANL 000482;"Beckman, Ruana; Pena, José; Souza, Raíssa";26/01/2018;Pará, Belém;;Etanol - 5
+395;MPEG.ANL 000500;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 9
+396;MPEG.ANL 000530;Cherniski, D.;24/08/2017;Pará, Baião;;EtOH - 2
+397;MPEG.ANL 000520;Cherniski, D.;05/09/2017;Pará, Vera Cruz;;EtOH - 1
+398;MPEG.ANL 000560;Cherniski, D.;21/01/2018;Pará, Baião;;EtOH - 3
+399;MPEG.ANL 000576;Cherniski, D.;08/01/2018;Pará, Vera Cruz;;EtOH - 8
+400;MPEG.ANL 000499;"Beckman, Ruana; Pena, José; Souza, Raíssa";19/12/2017;Pará, Belém;;Etanol - 8
+401;MPEG.ANL 000519;Cherniski, D.;05/09/2017;Pará, Cajazeiras;;EtOH - 1
+402;MPEG.ANL 000491;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 3
+403;MPEG.ANL 000537;Cherniski, D.;30/08/2017;Pará, Baião;;EtOH - 4
+404;MPEG.ANL 000532;Cherniski, D.;24/08/2017;Pará, Baião;;EtOH - 6
+405;MPEG.ANL 000517;Cherniski, D.;06/09/2017;Pará, Cajazeiras;;EtOH - 1
+406;MPEG.ANL 000480;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/12/2017;Pará, Belém;;Etanol - 1
+407;MPEG.ANL 000565;Cherniski, D.;18/01/2018;Pará, Baião;;EtOH - 2
+408;MPEG.ANL 000483;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 1
+409;MPEG.ANL 000554;Cherniski, D.;09/01/2018;Pará, Itupiranga;;EtOH - 1
+410;MPEG.ANL 000485;"Beckman, Ruana; Pena, José; Souza, Raíssa";14/09/2017;Pará, Belém;;Etanol - 1
+411;MPEG.ANL 000489;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 7
+412;MPEG.ANL 000473;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 18
+413;MPEG.ANL 000512;Cherniski, D.;04/09/2017;Pará, Itupiranga;;EtOH - 9
+414;MPEG.ANL 000474;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/02/2018;Pará, Belém;;Etanol - 33
+415;MPEG.ANL 000440;"Beckman, Ruana; Pena, José; Souza, Raíssa";26/01/2018;Pará, Belém;;Etanol - 2
+416;MPEG.ANL 000477;"Beckman, Ruana; Pena, José; Souza, Raíssa";03/10/2017;Pará, Belém;;Etanol - 1
+417;MPEG.ANL 000455;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/11/2017;Pará, Belém;;Etanol - 3
+418;MPEG.ANL 000564;Cherniski, D.;18/01/2018;Pará, Baião;;EtOH - 1
+419;MPEG.ANL 000550;Cherniski, D.;09/01/2018;Pará, Marabá;;EtOH - 1
+420;MPEG.ANL 000526;Cherniski, D.;23/08/2017;Pará, Tucuruí;;EtOH - 2
+421;MPEG.ANL 000509;Cherniski, D.;03/09/2017;Pará, Marabá;;EtOH - 48
+422;MPEG.ANL 000457;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 2
+423;MPEG.ANL 000518;Cherniski, D.;05/09/2017;Pará, Vera Cruz;;EtOH - 1
+424;MPEG.ANL 000476;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/02/2018;Pará, Belém;;Etanol - 2
+425;MPEG.ANL 000465;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 2
+426;MPEG.ANL 000479;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 2
+427;MPEG.ANL 000547;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 76
+428;MPEG.ANL 000475;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/11/2017;Pará, Belém;;Etanol - 6
+429;MPEG.ANL 000567;Cherniski, D.;18/01/2018;Pará, Baião;;EtOH - 1
+430;MPEG.ANL 000453;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 4
+431;MPEG.ANL 000468;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 7
+432;MPEG.ANL 000463;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/08/2017;Pará, Belém;;Etanol - 6
+433;MPEG.ANL 000418;"Beckman, Ruana; Pena, José; Souza, Raíssa";31/08/2017;Pará, Belém;;Etanol - 2
+434;MPEG.ANL 000467;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/02/2018;Pará, Belém;;Etanol - 45
+435;MPEG.ANL 000497;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 4
+436;MPEG.ANL 000428;"Beckman, Ruana; Pena, José; Souza, Raíssa";03/10/2017;Pará, Belém;;Etanol - 16
+437;MPEG.ANL 000464;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/12/2017;Pará, Belém;;Etanol - 1
+438;MPEG.ANL 000494;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 6
+439;MPEG.ANL 000444;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/02/2018;Pará, Belém;;Etanol - 4
+440;MPEG.ANL 000459;"Beckman, Ruana; Pena, José; Souza, Raíssa";01/09/2017;Pará, Belém;;Etanol - 3
+441;MPEG.ANL 000469;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 19
+442;MPEG.ANL 000460;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 3
+443;MPEG.ANL 000447;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 1
+444;MPEG.ANL 000525;Cherniski, D.;22/08/2017;Pará, Tucuruí;;EtOH - 28
+445;MPEG.ANL 000507;Cherniski, D.;03/09/2017;Pará, Marabá;;EtOH - 36
+446;MPEG.ANL 000488;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 2
+447;MPEG.ANL 000461;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/08/2017;Pará, Belém;;Etanol - 8
+448;MPEG.ANL 000544;Cherniski, D.;29/08/2017;Pará, Baião;;EtOH - 10
+449;MPEG.ANL 000441;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/02/2018;Pará, Belém;;Etanol - 5
+450;MPEG.ANL 000545;Cherniski, D.;11/01/2018;Pará, Marabá;;EtOH - 24
+451;MPEG.ANL 000462;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 1
+452;MPEG.ANL 000417;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/08/2017;Pará, Belém;;Etanol - 1
+453;MPEG.ANL 000495;"Beckman, Ruana; Pena, José; Souza, Raíssa";01/09/2017;Pará, Belém;;Etanol - 1
+454;MPEG.ANL 000443;"Beckman, Ruana; Pena, José; Souza, Raíssa";02/10/2017;Pará, Belém;;Etanol - 1
+455;MPEG.ANL 000456;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+456;MPEG.ANL 000445;"Beckman, Ruana; Pena, José; Souza, Raíssa";11/09/2017;Pará, Belém;;Etanol - 1
+457;MPEG.ANL 000438;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 3
+458;MPEG.ANL 000454;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 2
+459;MPEG.ANL 000402;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 6
+460;MPEG.ANL 000436;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 22
+461;MPEG.ANL 000481;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 8
+462;MPEG.ANL 000433;"Beckman, Ruana; Pena, José; Souza, Raíssa";26/01/2018;Pará, Belém;;Etanol - 9
+463;MPEG.ANL 000420;"Beckman, Ruana; Pena, José; Souza, Raíssa";04/10/2017;Pará, Belém;;Etanol - 1
+464;MPEG.ANL 000423;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/08/2017;Pará, Belém;;Etanol - 1
+465;MPEG.ANL 000429;"Beckman, Ruana; Pena, José; Souza, Raíssa";25/01/2018;Pará, Belém;;Etanol - 7
+466;MPEG.ANL 000437;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 42
+467;MPEG.ANL 000450;"Beckman, Ruana; Pena, José; Souza, Raíssa";12/09/2017;Pará, Belém;;Etanol - 4
+468;MPEG.ANL 000448;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 3
+469;MPEG.ANL 000484;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 2
+470;MPEG.ANL 000470;"Beckman, Ruana; Pena, José; Souza, Raíssa";22/01/2018;Pará, Belém;;Etanol - 15
+471;MPEG.ANL 000492;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/11/2017;Pará, Belém;;Etanol - 5
+472;MPEG.ANL 000439;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/12/2017;Pará, Belém;;Etanol - 4
+473;MPEG.ANL 000435;"Beckman, Ruana; Pena, José; Souza, Raíssa";12/09/2017;Pará, Belém;;Etanol - 6
+474;MPEG.ANL 000458;"Beckman, Ruana; Pena, José; Souza, Raíssa";14/09/2017;Pará, Belém;;Etanol - 5
+475;MPEG.ANL 000452;"Beckman, Ruana; Pena, José; Souza, Raíssa";15/09/2017;Pará, Belém;;Etanol - 2
+476;MPEG.ANL 000496;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/02/2018;Pará, Belém;;Etanol - 7
+477;MPEG.ANL 000427;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 17
+478;MPEG.ANL 000421;"Beckman, Ruana; Pena, José; Souza, Raíssa";15/09/2017;Pará, Belém;;Etanol - 1
+479;MPEG.ANL 000401;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 3
+480;MPEG.ANL 000442;"Beckman, Ruana; Pena, José; Souza, Raíssa";19/12/2017;Pará, Belém;;Etanol - 4
+481;MPEG.ANL 000419;"Beckman, Ruana; Pena, José; Souza, Raíssa";31/08/2017;Pará, Belém;;Etanol - 1
+482;MPEG.ANL 000414;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 2
+483;MPEG.ANL 000430;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 11
+484;MPEG.ANL 000413;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 36
+485;MPEG.ANL 000400;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 2
+486;MPEG.ANL 000508;Cherniski, D.;03/09/2017;Pará, Marabá;;EtOH - 23
+487;MPEG.ANL 000386;"Beckman, Ruana; Pena, José; Souza, Raíssa";12/09/2017;Pará, Belém;;Etanol - 1
+488;MPEG.ANL 000472;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/11/2017;Pará, Belém;;Etanol - 39
+489;MPEG.ANL 000408;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 3
+490;MPEG.ANL 000403;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 10
+491;MPEG.ANL 000410;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 2
+492;MPEG.ANL 000411;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 25
+493;MPEG.ANL 000426;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 29
+494;MPEG.ANL 000451;"Beckman, Ruana; Pena, José; Souza, Raíssa";13/09/2017;Pará, Belém;;Etanol - 1
+495;MPEG.ANL 000405;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 11
+496;MPEG.ANL 000431;"Beckman, Ruana; Pena, José; Souza, Raíssa";02/10/2017;Pará, Belém;;Etanol - 9
+497;MPEG.ANL 000394;"Beckman, Ruana; Pena, José; Souza, Raíssa";06/03/2018;Pará, Belém;;Etanol - 23
+498;MPEG.ANL 000449;"Beckman, Ruana; Pena, José; Souza, Raíssa";20/02/2018;Pará, Belém;;Etanol - 18
+499;MPEG.ANL 000432;"Beckman, Ruana; Pena, José; Souza, Raíssa";25/01/2018;Pará, Belém;;Etanol - 9
+500;MPEG.ANL 000388;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 4
+501;MPEG.ANL 000415;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 1
+502;MPEG.ANL 000412;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 7
+503;MPEG.ANL 000396;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 3
+504;MPEG.ANL 000422;"Beckman, Ruana; Pena, José; Souza, Raíssa";14/09/2017;Pará, Belém;;Etanol - 1
+505;MPEG.ANL 000399;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 28
+506;MPEG.ANL 000502;Brogim, Rosemary;;Pará, Itaituba;Coleta na Sede da Caramuru Alimentos S.A.;EtOH - 4
+507;MPEG.ANL 000407;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 54
+508;MPEG.ANL 000446;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 2
+509;MPEG.ANL 000397;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 6
+510;MPEG.ANL 000406;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 2
+511;MPEG.ANL 000389;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 1
+512;MPEG.ANL 000398;"Beckman, Ruana; Pena, José; Souza, Raíssa";09/03/2018;Pará, Belém;;Etanol - 2
+513;MPEG.ANL 000392;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 2
+514;MPEG.ANL 000425;"Beckman, Ruana; Pena, José; Souza, Raíssa";24/01/2018;Pará, Belém;;Etanol - 32
+515;MPEG.ANL 000391;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 5
+516;MPEG.ANL 000416;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 3
+517;MPEG.ANL 000434;"Beckman, Ruana; Pena, José; Souza, Raíssa";26/01/2018;Pará, Belém;;Etanol - 42
+518;MPEG.ANL 000409;"Beckman, Ruana; Pena, José; Souza, Raíssa";08/03/2018;Pará, Belém;;Etanol - 1
+519;MPEG.ANL 000387;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 8
+520;MPEG.ANL 000404;"Beckman, Ruana; Pena, José; Souza, Raíssa";07/03/2018;Pará, Belém;;Etanol - 1
+521;MPEG.ANL 000395;"Beckman, Ruana; Pena, José; Souza, Raíssa";06/03/2018;Pará, Belém;;Etanol - 1
+522;MPEG.ANL 000383;"Beckman, Ruana; Pena, José; Souza, Raíssa";23/01/2018;Pará, Belém;;Etanol - 3
+523;MPEG.ANL 000390;"Beckman, Ruana; Pena, José; Souza, Raíssa";05/03/2018;Pará, Belém;;Etanol - 31
+524;MPEG.ANL 000504;Brogim, Rosemary;16/12/2017;Pará, Itaituba;Coleta na Sede da Caramuru Alimentos S.A.;EtOH - 5
+525;MPEG.ANL 000382;"Beckman, Ruana; Pena, José; Souza, Raíssa";13/09/2017;Pará, Belém;;Etanol - 1
+526;MPEG.ANL 000384;"Beckman, Ruana; Pena, José; Souza, Raíssa";29/08/2017;Pará, Belém;;Etanol - 1
+527;MPEG.ANL 000424;"Beckman, Ruana; Pena, José; Souza, Raíssa";30/08/2017;Pará, Belém;;Etanol - 1
+528;MPEG.ANL 000506;Brogim, Rosemary;16/12/2017;Pará, Itaituba;Coleta na Sede da Caramuru Alimentos S.A.;EtOH - 1
+529;MPEG.ANL 000505;Brogim, Rosemary;;Pará, Itaituba;Coleta na Sede da Caramuru Alimentos S.A.;EtOH - 3
+530;MPEG.ANL 000385;"Beckman, Ruana; Pena, José; Souza, Raíssa";21/08/2017;Pará, Belém;;Etanol - 3
+531;MPEG.ANL 000503;Brogim, Rosemary;16/02/2017;Pará, Itaituba;Coleta na Sede da Caramuru Alimentos S.A.;EtOH - 2
+532;MPEG.ANL 000393;"Beckman, Ruana; Pena, José; Souza, Raíssa";06/03/2018;Pará, Belém;;Etanol - 17
+533;MPEG.ANL 000351;Ditadi, A.S.F.;27/02/1983;Mato Grosso;;Etanol - 1
+534;MPEG.ANL 000356;Bittencourt, N.;30/10/1985;Pará, Carajás;;Etanol - 1
+535;MPEG.ANL 000359;Bittencourt, N.;30/10/1985;Pará, Carajás;;Etanol - 4
+536;MPEG.ANL 000357;"Torres, M.F.; Neto, R.B.";28/01/1985;Pará, Carajás;;Etanol - 2
+537;MPEG.ANL 000352;Overal, W.L.;13/05/1984;Pará, Jacundá;;Etanol - 6
+538;MPEG.ANL 000353;Ditadi, A.S.F.;25/02/1983;Mato Grosso;;Etanol - 10
+539;MPEG.ANL 000358;Dias, J.;30/10/1985;Pará, Carajás;;Etanol - 4
+540;MPEG.ANL 000354;Dias, J.;29/10/1985;Pará, Carajás;;Etanol - 2
+541;MPEG.ANL 000326;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";28/05/2014;Maranhão, Rosário;;Etanol - 2
+542;MPEG.ANL 000345;Overal, W.L.;12/03/1984;Pará;;Etanol - 5
+543;MPEG.ANL 000341;Overal, W.L.;05/03/1984;Pará;;Etanol - 1
+544;MPEG.ANL 000348;Froehlich, E.M.;01/04/1983;Mato Grosso;;Etanol - 6
+545;MPEG.ANL 000339;Overal, W.L.;26/06/1984;Pará;;Etanol - 1
+546;MPEG.ANL 000331;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 3
+547;MPEG.ANL 000340;Overal, W.L.;12/05/1984;Pará, Jacundá;;Etanol - 5
+548;MPEG.ANL 000334;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 1
+549;MPEG.ANL 000337;"Mascarenhas, B.; Torres, M.F.";03/04/1984;Pará;;Etanol - 1
+550;MPEG.ANL 000346;Overal, W.L.;10/03/1984;Pará, Tucuruí;;Etanol - 1
+551;MPEG.ANL 000349;Froehlich, E.M.;01/04/1983;Mato Grosso;;Etanol - 8
+552;MPEG.ANL 000332;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 2
+553;MPEG.ANL 000327;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";28/05/2014;Maranhão, Rosário;;Etanol - 1
+554;MPEG.ANL 000328;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";28/05/2014;Maranhão, Rosário;;Etanol - 1
+555;MPEG.ANL 000335;Mascarenhas, B.;15/06/1984;Pará;;Etanol - 1
+556;MPEG.ANL 000347;Ditadi, A.S.F.;27/02/1983;Mato Grosso;;Etanol - 4
+557;MPEG.ANL 000338;Nunes, A.L.;28/06/1984;Pará;;Etanol - 1
+558;MPEG.ANL 000355;Mascarenhas, B.;29/10/1985;Pará, Carajás;;Etanol - 9
+559;MPEG.ANL 000333;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 3
+560;MPEG.ANL 000344;Overal, W.L.;12/03/1984;Pará;;Etanol - 2
+561;MPEG.ANL 000336;Mascarenhas, B.;15/06/1984;Pará;;Etanol - 1
+562;MPEG.ANL 000343;Overal, W.L.;13/03/1984;Pará;;Etanol - 1
+563;MPEG.ANL 000329;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 1
+564;MPEG.ANL 000301;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+565;MPEG.ANL 000320;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";20/06/2014;Maranhão, Itinga do Maranhão;;Etanol - 1
+566;MPEG.ANL 000323;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+567;MPEG.ANL 000316;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+568;MPEG.ANL 000315;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+569;MPEG.ANL 000306;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+570;MPEG.ANL 000342;Overal, W.L.;13/03/1984;Pará;;Etanol - 1
+571;MPEG.ANL 000312;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 3
+572;MPEG.ANL 000309;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+573;MPEG.ANL 000314;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+574;MPEG.ANL 000321;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";28/05/2014;Maranhão, Rosário;;Etanol - 1
+575;MPEG.ANL 000324;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";18/05/2015;Maranhão, Alcântara;;Etanol - 1
+576;MPEG.ANL 000307;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+577;MPEG.ANL 000302;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+578;MPEG.ANL 000303;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+579;MPEG.ANL 000350;Ditadi, A.S.F.;22/04/1983;Mato Grosso;;Etanol - 13
+580;MPEG.ANL 000310;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+581;MPEG.ANL 000322;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";18/05/2015;Maranhão, Alcântara;;Etanol - 1
+582;MPEG.ANL 000308;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+583;MPEG.ANL 000330;"dos Santos, R.; Rousseau, Guillaume";01/06/2010;Maranhão, Alcântara;;Etanol - 2
+584;MPEG.ANL 000313;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+585;MPEG.ANL 000319;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+586;MPEG.ANL 000311;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+587;MPEG.ANL 000304;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+588;MPEG.ANL 000318;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+589;MPEG.ANL 000276;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 1
+590;MPEG.ANL 000295;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";18/05/2015;Maranhão, Alcântara;;Etanol - 2
+591;MPEG.ANL 000298;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+592;MPEG.ANL 000291;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+593;MPEG.ANL 000317;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+594;MPEG.ANL 000289;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+595;MPEG.ANL 000290;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+596;MPEG.ANL 000296;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";18/05/2015;Maranhão, Alcântara;;Etanol - 1
+597;MPEG.ANL 000281;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+598;MPEG.ANL 000284;Sanjuan, P.;;Pará, Melgaço;;Etanol
+599;MPEG.ANL 000287;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 3
+600;MPEG.ANL 000299;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+601;MPEG.ANL 000278;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+602;MPEG.ANL 000277;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 10
+603;MPEG.ANL 000282;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 2
+604;MPEG.ANL 000285;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 4
+605;MPEG.ANL 000325;"Muñoz, J.; Rousseau, Guillaume; Cabezas, R.";28/05/2014;Maranhão, Rosário;;Etanol - 1
+606;MPEG.ANL 000297;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+607;MPEG.ANL 000283;;22/11/2003;Pará, Melgaço;;Etanol - 1
+608;MPEG.ANL 000288;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 3
+609;MPEG.ANL 000305;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+610;MPEG.ANL 000286;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo do Maranhão;;Etanol - 1
+611;MPEG.ANL 000293;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+612;MPEG.ANL 000294;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+613;MPEG.ANL 000279;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+614;MPEG.ANL 000270;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 56
+615;MPEG.ANL 000251;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+616;MPEG.ANL 000271;"Santos, B.; , Equipe";29/05/2013;Pará, Paragominas;;Etanol - 94
+617;MPEG.ANL 000264;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+618;MPEG.ANL 000292;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 1
+619;MPEG.ANL 000273;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 78
+620;MPEG.ANL 000266;"Santos, B.; , Equipe";21/05/2013;Maranhão, Centro Novo do Maranhão;;Etanol - 59
+621;MPEG.ANL 000259;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+622;MPEG.ANL 000256;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 4
+623;MPEG.ANL 000262;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 24
+624;MPEG.ANL 000265;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 18
+625;MPEG.ANL 000257;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 15
+626;MPEG.ANL 000252;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 3
+627;MPEG.ANL 000274;"Santos, B.; , Equipe";04/08/2013;Maranhão, Bom Jardim;;Etanol - 7
+628;MPEG.ANL 000253;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+629;MPEG.ANL 000300;"Hernández, L.; Rousseau, Guillaume; Burgos, J.; Cabezas, R.";22/03/2015;Maranhão, Centro Novo;;Etanol - 2
+630;MPEG.ANL 000272;"Santos, B.; , Equipe";05/01/2013;Pará, Tailândia;;Etanol - 39
+631;MPEG.ANL 000260;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 2
+632;MPEG.ANL 000280;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 1
+633;MPEG.ANL 000268;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 73
+634;MPEG.ANL 000263;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+635;MPEG.ANL 000258;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 2
+636;MPEG.ANL 000261;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+637;MPEG.ANL 000269;"Santos, B.; , Equipe";23/05/2012;Pará, Nova Ipixuna;;Etanol - 32
+638;MPEG.ANL 000245;"Santos, B.; , Equipe";05/01/2013;Pará, Tailândia;;Etanol - 1
+639;MPEG.ANL 000254;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+640;MPEG.ANL 000226;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 5
+641;MPEG.ANL 000234;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+642;MPEG.ANL 000248;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+643;MPEG.ANL 000232;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 3
+644;MPEG.ANL 000231;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+645;MPEG.ANL 000267;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 15
+646;MPEG.ANL 000246;"Santos, B.; , Equipe";05/01/2013;Pará, Tailândia;;Etanol - 1
+647;MPEG.ANL 000237;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 33
+648;MPEG.ANL 000240;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 3
+649;MPEG.ANL 000241;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 2
+650;MPEG.ANL 000249;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+651;MPEG.ANL 000239;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 1
+652;MPEG.ANL 000227;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+653;MPEG.ANL 000228;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 2
+654;MPEG.ANL 000247;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 2
+655;MPEG.ANL 000275;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 1
+656;MPEG.ANL 000255;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 13
+657;MPEG.ANL 000235;"Santos, B.; , Equipe";23/05/2012;Pará, Nova Ipixuna;;Etanol - 2
+658;MPEG.ANL 000238;"Santos, B.; , Equipe";03/07/2014;Pará, Nova Timboteua;;Etanol - 1
+659;MPEG.ANL 000233;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+660;MPEG.ANL 000236;"Santos, B.; , Equipe";23/05/2012;Pará, Nova Ipixuna;;Etanol - 2
+661;MPEG.ANL 000243;"Santos, B.; , Equipe";29/05/2013;Pará, Paragominas;;Etanol - 1
+662;MPEG.ANL 000229;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 2
+663;MPEG.ANL 000244;"Santos, B.; , Equipe";05/01/2013;Pará, Tailândia;;Etanol - 1
+664;MPEG.ANL 000220;"Santos, B.; , Equipe";21/05/2013;Maranhão, Centro Novo do Maranhão;;Etanol - 1
+665;MPEG.ANL 000201;"Lavelle, P. ; , Equipe";;Pará;;Etanol - 1
+666;MPEG.ANL 000221;"Santos, B.; , Equipe";04/08/2013;Maranhão, Bom Jardim;;Etanol - 1
+667;MPEG.ANL 000212;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+668;MPEG.ANL 000209;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 2
+669;MPEG.ANL 000215;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 2
+670;MPEG.ANL 000206;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+671;MPEG.ANL 000224;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 1
+672;MPEG.ANL 000207;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+673;MPEG.ANL 000223;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 6
+674;MPEG.ANL 000214;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+675;MPEG.ANL 000216;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 2
+676;MPEG.ANL 000242;"Santos, B.; , Equipe";29/05/2013;Pará, Paragominas;;Etanol - 1
+677;MPEG.ANL 000222;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 3
+678;MPEG.ANL 000203;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 2
+679;MPEG.ANL 000213;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+680;MPEG.ANL 000210;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+681;MPEG.ANL 000202;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 1
+682;MPEG.ANL 000250;"Santos, B.; , Equipe";14/08/2014;Pará, Viseu;;Etanol - 1
+683;MPEG.ANL 000211;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+684;MPEG.ANL 000208;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 1
+685;MPEG.ANL 000230;"Santos, B.; , Equipe";17/04/2013;Pará, Moju;;Etanol - 1
+686;MPEG.ANL 000204;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+687;MPEG.ANL 000218;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 1
+688;MPEG.ANL 000195;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+689;MPEG.ANL 000176;"Morais, G.; Borges, A.; Monteiro, E.; Cayres, S.";29/03/2010;Pará, Curuçá;;Etanol - 1
+690;MPEG.ANL 000219;"Santos, B.; , Equipe";21/05/2013;Maranhão, Centro Novo do Maranhão;;Etanol - 1
+691;MPEG.ANL 000196;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+692;MPEG.ANL 000182;"Morais, G.; Borges, A.; Monteiro, E.; Cayres, S.";29/03/2010;Pará, Curuçá;;Etanol - 15
+693;MPEG.ANL 000187;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+694;MPEG.ANL 000190;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 1
+695;MPEG.ANL 000181;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 2
+696;MPEG.ANL 000178;"Morais, G.; Borges, A.; Magalhães, A.M.; Galvão, J.";28/03/2010;Pará, Curuçá;;Etanol - 2
+697;MPEG.ANL 000184;Teixeira, R. P.;14/06/2011;Pará;;Etanol - 1
+698;MPEG.ANL 000199;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+699;MPEG.ANL 000189;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+700;MPEG.ANL 000183;"Morais, G.; Borges, A.; Magalhães, A.M.; Galvão, J.";28/03/2010;Pará, Curuçá;;Etanol - 1
+701;MPEG.ANL 000177;"Morais, G.; Borges, A.; Monteiro, E.; Galvão, J.";29/03/2010;Pará, Curuçá;;Etanol - 2
+702;MPEG.ANL 000225;"Santos, B.; , Equipe";07/02/2014;Maranhão, Mirinzal;;Etanol - 13
+703;MPEG.ANL 000186;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 3
+704;MPEG.ANL 000197;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+705;MPEG.ANL 000198;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 3
+706;MPEG.ANL 000217;"Santos, B.; , Equipe";19/08/2014;Maranhão, Governador Nunes Freire;;Etanol - 9
+707;MPEG.ANL 000191;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+708;MPEG.ANL 000185;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+709;MPEG.ANL 000179;"Morais, G.; Borges, A.; Monteiro, E.; Galvão, J.";29/03/2010;Pará, Curuçá;;Etanol - 2
+710;MPEG.ANL 000188;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 1
+711;MPEG.ANL 000193;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 1
+712;MPEG.ANL 000205;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 1
+713;MPEG.ANL 000194;"Lavelle, P. ; , Equipe";;Pará, Maçaranduba;;Etanol - 4
+714;MPEG.ANL 000151;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+715;MPEG.ANL 000170;"Morais, G.; Borges, A.; Monteiro, E.; Galvão, J.";29/03/2010;Pará, Curuçá;;Etanol - 1
+716;MPEG.ANL 000192;"Lavelle, P. ; , Equipe";;Pará, Palmares;;Etanol - 1
+717;MPEG.ANL 000180;"Morais, G.; Borges, A.; Lobato, Cléo; Bastos, R.";20/08/2009;Pará, Curuçá;;Etanol - 9
+718;MPEG.ANL 000159;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 2
+719;MPEG.ANL 000165;"Morais, G.; Borges, A.; Magalhães, A.M.; Galvão, J.";28/03/2010;Pará, Curuçá;;Etanol - 33
+720;MPEG.ANL 000166;"Morais, G.; Borges, A.; Monteiro, E.; Cayres, S.";29/03/2010;Pará, Curuçá;;Etanol - 27
+721;MPEG.ANL 000200;"Lavelle, P. ; , Equipe";;Pará, Pacajá;;Etanol - 2
+722;MPEG.ANL 000174;"Morais, G.; Borges, A.; Magalhães, A.M.; Cayres, S.";28/03/2010;Pará, Curuçá;;Etanol - 213
+723;MPEG.ANL 000172;"Morais, G.; Borges, A.; Monteiro, E.; Cayres, S.";29/03/2010;Pará, Curuçá;;Etanol - 2
+724;MPEG.ANL 000161;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 1
+725;MPEG.ANL 000154;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+726;MPEG.ANL 000164;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 2
+727;MPEG.ANL 000171;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 1
+728;MPEG.ANL 000156;"Decaëns,  T.;  Lopes, A. M.";28/04/2011;Pará, Melgaço;;Etanol - 20
+729;MPEG.ANL 000157;Decaëns,  T.;03/05/2011;Pará, Belém;;Etanol - 26
+730;MPEG.ANL 000152;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+731;MPEG.ANL 000173;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 44
+732;MPEG.ANL 000158;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 7
+733;MPEG.ANL 000162;"Morais, G.; Borges, A.; Magalhães, A.M.; Cayres, S.";28/03/2010;Pará, Curuçá;;Etanol - 1
+734;MPEG.ANL 000153;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+735;MPEG.ANL 000160;"Morais, G.; Borges, A.; Lobato, C.; Bastos, R.";22/08/2009;Pará, Curuçá;;Etanol - 1
+736;MPEG.ANL 000169;"Morais, G.; Borges, A.; Monteiro, E.; Cayres, S.";29/03/2010;Pará, Curuçá;;Etanol - 1
+737;MPEG.ANL 000163;"Morais, G.; Borges, A.; Magalhães, A.M.; Galvão, J.";29/03/2010;Pará, Curuçá;;Etanol - 12
+738;MPEG.ANL 000168;"Morais, G.; Magalhães, A.M.; Monteiro, E.; Vilela, P.";29/05/2010;Pará, Curuçá;;Etanol - 12
+739;MPEG.ANL 000167;"Morais, G.; Borges, A.; Magalhães, A.M.; Cayres, S.";28/03/2010;Pará, Curuçá;;Etanol - 46
+740;MPEG.ANL 000145;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+741;MPEG.ANL 000126;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+742;MPEG.ANL 000155;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+743;MPEG.ANL 000175;"Morais, G.; Borges, A.; Magalhães, A.M.; Galvão, J.";28/03/2010;Pará, Curuçá;;Etanol - 2
+744;MPEG.ANL 000147;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+745;MPEG.ANL 000149;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+746;MPEG.ANL 000140;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+747;MPEG.ANL 000141;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+748;MPEG.ANL 000134;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+749;MPEG.ANL 000146;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+750;MPEG.ANL 000136;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+751;MPEG.ANL 000129;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+752;MPEG.ANL 000139;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+753;MPEG.ANL 000132;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+754;MPEG.ANL 000131;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+755;MPEG.ANL 000137;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+756;MPEG.ANL 000127;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+757;MPEG.ANL 000135;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+758;MPEG.ANL 000133;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+759;MPEG.ANL 000148;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+760;MPEG.ANL 000128;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+761;MPEG.ANL 000144;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+762;MPEG.ANL 000150;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+763;MPEG.ANL 000138;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+764;MPEG.ANL 000142;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+765;MPEG.ANL 000143;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+766;MPEG.ANL 000130;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+767;MPEG.ANL 000124;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+768;MPEG.ANL 000116;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+769;MPEG.ANL 000120;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+770;MPEG.ANL 000101;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+771;MPEG.ANL 000115;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+772;MPEG.ANL 000122;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+773;MPEG.ANL 000111;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+774;MPEG.ANL 000104;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+775;MPEG.ANL 000109;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+776;MPEG.ANL 000121;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+777;MPEG.ANL 000114;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+778;MPEG.ANL 000107;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+779;MPEG.ANL 000106;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+780;MPEG.ANL 000110;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+781;MPEG.ANL 000123;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+782;MPEG.ANL 000108;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+783;MPEG.ANL 000102;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+784;MPEG.ANL 000112;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+785;MPEG.ANL 000103;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+786;MPEG.ANL 000119;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+787;MPEG.ANL 000117;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+788;MPEG.ANL 000125;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+789;MPEG.ANL 000113;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+790;MPEG.ANL 000105;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+791;MPEG.ANL 000118;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+792;MPEG.ANL 000099;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+793;MPEG.ANL 000076;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+794;MPEG.ANL 000095;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+795;MPEG.ANL 000090;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+796;MPEG.ANL 000079;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+797;MPEG.ANL 000084;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+798;MPEG.ANL 000091;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+799;MPEG.ANL 000086;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+800;MPEG.ANL 000097;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+801;MPEG.ANL 000096;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+802;MPEG.ANL 000089;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+803;MPEG.ANL 000098;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+804;MPEG.ANL 000082;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+805;MPEG.ANL 000077;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+806;MPEG.ANL 000085;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+807;MPEG.ANL 000081;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+808;MPEG.ANL 000083;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+809;MPEG.ANL 000087;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+810;MPEG.ANL 000078;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+811;MPEG.ANL 000094;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+812;MPEG.ANL 000100;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+813;MPEG.ANL 000092;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+814;MPEG.ANL 000088;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+815;MPEG.ANL 000093;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+816;MPEG.ANL 000080;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+817;MPEG.ANL 000054;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol - 2
+818;MPEG.ANL 000070;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+819;MPEG.ANL 000066;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+820;MPEG.ANL 000071;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+821;MPEG.ANL 000059;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Pacajá;;Etanol
+822;MPEG.ANL 000065;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+823;MPEG.ANL 000051;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+824;MPEG.ANL 000064;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+825;MPEG.ANL 000074;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+826;MPEG.ANL 000061;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+827;MPEG.ANL 000072;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+828;MPEG.ANL 000073;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+829;MPEG.ANL 000057;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol
+830;MPEG.ANL 000056;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol - 1
+831;MPEG.ANL 000060;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Pacajá;;Etanol
+832;MPEG.ANL 000052;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+833;MPEG.ANL 000062;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+834;MPEG.ANL 000053;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol - 6
+835;MPEG.ANL 000058;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol - 6
+836;MPEG.ANL 000069;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+837;MPEG.ANL 000067;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+838;MPEG.ANL 000075;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+839;MPEG.ANL 000063;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+840;MPEG.ANL 000068;"Decaëns,  T.;  Lopes, A. M.";30/04/2011;Pará, Melgaço;;Etanol - 1
+841;MPEG.ANL 000055;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol
+842;MPEG.ANL 000027;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+843;MPEG.ANL 000046;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+844;MPEG.ANL 000028;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 9
+845;MPEG.ANL 000048;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+846;MPEG.ANL 000029;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 4
+847;MPEG.ANL 000039;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+848;MPEG.ANL 000031;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+849;MPEG.ANL 000033;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+850;MPEG.ANL 000047;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+851;MPEG.ANL 000045;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+852;MPEG.ANL 000032;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+853;MPEG.ANL 000049;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+854;MPEG.ANL 000041;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+855;MPEG.ANL 000040;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 8
+856;MPEG.ANL 000044;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+857;MPEG.ANL 000034;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+858;MPEG.ANL 000037;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 6
+859;MPEG.ANL 000026;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 11
+860;MPEG.ANL 000036;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 4
+861;MPEG.ANL 000035;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+862;MPEG.ANL 000042;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 20
+863;MPEG.ANL 000050;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+864;MPEG.ANL 000043;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+865;MPEG.ANL 000038;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol
+866;MPEG.ANL 000030;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+867;MPEG.ANL 000004;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 5
+868;MPEG.ANL 000006;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 10
+869;MPEG.ANL 000025;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+870;MPEG.ANL 000005;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+871;MPEG.ANL 000020;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 5
+872;MPEG.ANL 000014;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+873;MPEG.ANL 000012;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+874;MPEG.ANL 000018;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 3
+875;MPEG.ANL 000015;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+876;MPEG.ANL 000022;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 8
+877;MPEG.ANL 000001;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Pacajá;;Etanol - 1
+878;MPEG.ANL 000021;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 6
+879;MPEG.ANL 000002;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+880;MPEG.ANL 000008;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 4
+881;MPEG.ANL 000011;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+882;MPEG.ANL 000016;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+883;MPEG.ANL 000017;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 7
+884;MPEG.ANL 000003;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Parauabepas;;Etanol - 1
+885;MPEG.ANL 000007;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+886;MPEG.ANL 000013;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 6
+887;MPEG.ANL 000009;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 7
+888;MPEG.ANL 000023;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+889;MPEG.ANL 000019;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 2
+890;MPEG.ANL 000024;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 1
+891;MPEG.ANL 000010;"Lavelle, P. ; ,  Equipe";04/06/2008;Pará, Nova Ipixuna;;Etanol - 4
