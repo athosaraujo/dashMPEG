@@ -1,77 +1,112 @@
-CREATE TABLE bioinfo (
-    id integer NOT NULL,
-    specimentype character varying(10),
-    species character varying(255),
-    scientificname character varying(255),
-    verbatimscientificname character varying(255),
-    sp_kingdom character varying(255),
-    sp_phylum character varying(255),
-    sp_class character varying(255),
-    sp_order character varying(255),
-    sp_family character varying(255),
-    sp_genus character varying(255),
-    genericname character varying(255),
-    specificepithet character varying(255),
-    infraspecificepithet character varying(255),
-    "iucnRedListCategory" character varying(5)
-);
-
-CREATE TABLE biokeys (
-    specimentid integer NOT NULL,
-    taxonkey integer,
-    acceptedtaxonkey integer,
-    kingdomkey integer,
-    phylumkey integer,
-    classkey integer,
-    orderkey integer,
-    familykey integer,
-    genuskey integer,
-    specieskey integer
+CREATE TABLE locals (
+	id integer NOT NULL,
+	continent varchar(255),
+	countryCode varchar(255),
+	stateProvince varchar(255),
+	county varchar(255),
+	locality varchar(255),
+	decimalLatitute double precision,
+	decimalLongigude double precision,
+	CONSTRAINT locals_pk PRIMARY KEY (id)
 );
 
 CREATE TABLE event (
-    catalognumber character varying(255) NOT NULL,
-    recordedby character varying(255),
-    eventdate date,
-    highergeography character varying(255),
-    eventremarks character varying(255),
-    prepmaterial character varying(255)
+	id integer NOT NULL,
+	catalognumber varchar(255) NOT NULL,
+	recordedby varchar(255),
+	eventdate DATE,
+	higherGeography varchar(255),
+	eventRemarks varchar(255),
+	prepMaterial varchar(255),
+	CONSTRAINT event_pk PRIMARY KEY (catalognumber)
 );
 
-CREATE TABLE localevent (
-    eventid character varying(255) NOT NULL,
-    localid integer NOT NULL
+CREATE TABLE bioInfo (
+	id serial NOT NULL,
+	specimenType varchar(10),
+	species varchar(255),
+	scientificName varchar(255),
+	verbatimScientificName varchar(255),
+	sp_kingdom varchar(255),
+	sp_phylum varchar(255),
+	sp_class varchar(255),
+	sp_order varchar(255),
+	sp_family varchar(255) NOT NULL,
+	sp_genus varchar(255) NOT NULL,
+	genericName varchar(255) NOT NULL,
+	specificEpithet varchar(255) NOT NULL,
+	infraspecificEpithet varchar(255) NOT NULL,
+	iucnLevel varchar(5) NOT NULL,
+	CONSTRAINT bioInfo_pk PRIMARY KEY (id)
 );
 
-CREATE TABLE locals (
-    id integer NOT NULL,
-    continent character varying(255),
-    countrycode character varying(255),
-    stateprovince character varying(255),
-    county character varying(255),
-    locality character varying(255),
-    decimallatitute double precision,
-    decimallongigude double precision
+CREATE TABLE pubInfo (
+	id serial NOT NULL,
+	taxonRank varchar(12),
+	taxonomicStatus varchar(12),
+	publishingCountry varchar(4),
+	hasCoordenates BOOLEAN,
+	hasGeospatialIssues BOOLEAN,
+	CONSTRAINT pubInfo_pk PRIMARY KEY (id)
+);
+
+CREATE TABLE bioKeys (
+	specimentId integer NOT NULL,
+	taxonKey integer,
+	acceptedTaxonKey integer,
+	kingdomKey integer,
+	phylumKey integer,
+	classKey integer,
+	orderKey integer,
+	familyKey integer,
+	genusKey integer,
+	speciesKey integer NOT NULL,
+	CONSTRAINT bioKeys_pk PRIMARY KEY (specimentId)
 );
 
 CREATE TABLE pubevent (
-    eventid character varying(255) NOT NULL,
-    pubid integer NOT NULL
+	eventId varchar(255) NOT NULL,
+	pubId integer NOT NULL
 );
 
-CREATE TABLE pubinfo (
-    id integer NOT NULL,
-    taxonrank character varying(12),
-    taxonomicstatus character varying(12),
-    publishingcountry character varying(4),
-    hascoordenates boolean,
-    hasgeospatialissues boolean
+CREATE TABLE localevent (
+	eventId varchar(255) NOT NULL,
+	localId integer NOT NULL
 );
 
 CREATE TABLE specimenevent (
-    eventid character varying(255) NOT NULL,
-    specimenid integer NOT NULL
+	eventId varchar(255) NOT NULL,
+	specimenId integer NOT NULL
 );
+
+ALTER TABLE bioKeys ADD CONSTRAINT bioKeys_fk0 FOREIGN KEY (specimentId) REFERENCES bioInfo(id);
+
+ALTER TABLE localevent ADD CONSTRAINT localevent_fk0 FOREIGN KEY (localId) REFERENCES locals(id);
+ALTER TABLE localevent ADD CONSTRAINT localevent_fk1 FOREIGN KEY (eventId) REFERENCES event(catalognumber);
+
+ALTER TABLE pubevent ADD CONSTRAINT pubevent_fk0 FOREIGN KEY (eventId) REFERENCES event(catalognumber);
+ALTER TABLE pubevent ADD CONSTRAINT pubevent_fk1 FOREIGN KEY (pubId) REFERENCES pubInfo(id);
+
+ALTER TABLE specimenevent ADD CONSTRAINT specimentevent_fk0 FOREIGN KEY (specimenId) REFERENCES bioInfo(id);
+ALTER TABLE specimenevent ADD CONSTRAINT specimentevent_fk1 FOREIGN KEY (eventId) REFERENCES event(catalognumber);
+
+create or replace function populate()
+returns void as
+$$
+begin
+insert into localevent
+	select a.catalognumber,b.id from event as a
+	join locals as b on a.id = b.id;
+insert into pubevent
+	select a.catalognumber,b.id from event as a
+	join pubinfo as b on a.id = b.id;
+insert into specimenevent
+	select a.catalognumber,b.id from event as a
+	join bioinfo as b on a.id = b.id;
+alter table event drop column id; 
+end;
+$$
+language plpgsql;
 
 INSERT INTO bioinfo VALUES (0, NULL, NULL, 'Pontoscolex', 'Pontoscolex Corethrurus', 'Animalia', 'Annelida', 'Clitellata', 'Haplotaxida', 'Glossoscolecidae', 'Pontoscolex', 'Pontoscolex', NULL, NULL, NULL);
 INSERT INTO bioinfo VALUES (1, NULL, 'Liodrilus mendesi', 'Liodrilus mendesi Righi, 1994', 'Liodrilus mendesi', 'Animalia', 'Annelida', 'Clitellata', NULL, NULL, 'Liodrilus', 'Liodrilus', 'mendesi', NULL, 'NE');
