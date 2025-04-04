@@ -1,7 +1,3 @@
-# dashMPEG
-## Projeto de Banco de Dados - EC4MA
+# Projeto de Banco de Dados - Museu Paraense Emilio Goeldi
 
-### Equipe composta por
-  - Athos Andrade Silva de Araújo 
-  - Antônio Manoel Pampulha Neto
-  - Enzo Victor Moraes Souza
+Arquivos CSVs e .sql normalizado para desenvolvimento de um dashboard sobre informações de espécies de bactérias
